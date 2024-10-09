@@ -4,8 +4,10 @@
 
 ### Level-3 heading
 
-* Text in Bold *
-_ Text in italic _
+*Text in Bold*
+**Text in italic**
+
+
 
 This is a `command`
 
